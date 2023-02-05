@@ -1,4 +1,4 @@
-<h1>Now Dolar</h1>
+<h1>Dolar now</h1>
 <p>Descubra quanto você precisa para viajar para o exterior</p>
 
 <h2>Projeto:</h2>
